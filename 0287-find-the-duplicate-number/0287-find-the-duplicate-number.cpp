@@ -2,8 +2,14 @@ class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
         
-        int ans = 0;
+        // Approach - 
 
+        //first sort the array
+        //if(nums[i] == nums[i++])
+        //return nums[i];
+        
+        int ans = 0;
+         
         if(nums.size() < 0)
         {
             return -1;
