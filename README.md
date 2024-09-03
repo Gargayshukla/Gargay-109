@@ -53,4 +53,20 @@
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gargayshukla/Gargay-109/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
