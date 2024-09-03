@@ -14,6 +14,7 @@
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Gargayshukla/Gargay-109/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Gargayshukla/Gargay-109/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## String
+|  |
+| ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Gargayshukla/Gargay-109/tree/master/2076-sum-of-digits-of-string-after-convert) |
 <!---LeetCode Topics End-->
