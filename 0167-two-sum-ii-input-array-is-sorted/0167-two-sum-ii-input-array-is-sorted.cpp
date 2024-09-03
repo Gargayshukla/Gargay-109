@@ -7,11 +7,13 @@ public:
         int s = 0;
         int e = n-1;
 
+        vector<int> ans;
+
         while(s<e)
         {
             if(numbers[s] + numbers[e] == target)
             {
-                return {s+1, e+1};
+                return ans = {s+1, e+1};
             }
             else if(numbers[s] + numbers[e] < target)
             {
@@ -23,6 +25,6 @@ public:
             }
         }
 
-        return {-1,-1};
+        return ans;
     }
 };
