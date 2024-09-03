@@ -2,32 +2,34 @@ class Solution {
 public:
     int getLucky(string s, int k) {
         
-        int n = s.size();
+        string ans = "";
 
-        long long sum = 0;
+        //Approach - 
 
-        for(int i=0; i<n; i++)
+        // convert string character to number
+        // while iterate till k-- 
+        // calcute sum of digits in string
+        //convert the character string to integer and add to curr sum
+        //update the ans after each iteration
+        // return the final ans after converting final string to integer
+
+        for(auto i : s)
         {
-        int num = s[i] - 'a' + 1;
-        while(num>0)
-        {
-            sum = sum + num%10;
-            num = num/10;
+            int num = i - 'a' + 1;
+            ans = ans + to_string(num);
         }
-        }
-       
-        while(k>1)
+
+        while(k--)
         {
-            long long newsum = 0;
-            while(sum>0)
+            int sum = 0;
+
+            for(auto i : ans)
             {
-                newsum = newsum + sum %10;
-                sum = sum/10;
+                sum = sum + i - '0';
             }
-            sum = newsum;
-            k--;
+             ans = to_string(sum);
         }
 
-        return sum;
+        return stoi(ans);
     }
 };
