@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Gargayshukla/Gargay-109/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/Gargayshukla/Gargay-109/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Gargayshukla/Gargay-109/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
