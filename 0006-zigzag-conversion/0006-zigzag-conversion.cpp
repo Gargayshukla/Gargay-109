@@ -9,12 +9,12 @@ public:
             return s;
         }
 
-        bool flag = false;
+        bool flag = false; //Flag Flip the i
         int i=0;
 
-        for(auto ch : s)
+        for(auto a : s)
         {
-            ans[i] = ans[i] + ch;
+            ans[i] = ans[i] + a; 
 
         if(i == 0 || i==numRows - 1)
         {
@@ -22,13 +22,9 @@ public:
         }
 
         if(flag)
-        {
             i = i+1;
-        }
         else
-        {
             i = i-1;
-        }
         }
        string conv ="";
 
