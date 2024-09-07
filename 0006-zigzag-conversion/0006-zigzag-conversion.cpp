@@ -2,7 +2,7 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         
-        vector<string>ans(numRows);
+        vector<string> ans(numRows);
 
         if(numRows == 1)
         {
