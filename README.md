@@ -37,6 +37,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/Gargayshukla/Gargay-109/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Gargayshukla/Gargay-109/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/Gargayshukla/Gargay-109/tree/master/0058-length-of-last-word) |
+| [1894-merge-strings-alternately](https://github.com/Gargayshukla/Gargay-109/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gargayshukla/Gargay-109/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Tree
 |  |
