@@ -9,19 +9,22 @@ public:
         int i = 0;
         int j = 0;
 
-        while(i<n1 || j<n2)
+        while(i<n1 && j<n2)
         {
-            if(i<n1)
-            {
-                ans = ans + word1[i];
-                i++;
-            }
+            ans.push_back(word1[i]);
+            ans.push_back(word2[j]);
+            i++;
+            j++;
+        }
 
-            if(j<n2)
-            {
-                ans = ans + word2[j];
-                j++;
-            }
+        for(; i<n1; i++)
+        {
+            ans.push_back(word1[i]);
+        }
+
+        for(;j<n2; j++)
+        {
+            ans.push_back(word2[j]);
         }
 
         return ans;
