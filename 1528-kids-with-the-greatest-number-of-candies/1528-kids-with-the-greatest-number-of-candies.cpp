@@ -3,32 +3,19 @@ public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
         
         int n = candies.size();
-        
-        vector<bool> ans;
 
-        for(auto i:candies)
+        int max = *max_element(begin(candies),end(candies));
+
+        vector<bool> ans(n,false);
+
+        for(int i = 0; i<n; i++)
         {
-            int x = i + extraCandies;
-            int y = 1;
-
-            for(auto j : candies)
+            if(candies[i] + extraCandies >= max)
             {
-                if(x < j)
-                {
-                    y = 0;
-                }
-            }
-
-            if(y == 1)
-            {
-                ans.push_back(1);
-            }
-            else
-            {
-                ans.push_back(0);
+                ans[i] = true;
             }
         }
 
-      return ans;
+        return ans;
     }
 };
