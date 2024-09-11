@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
+| [0605-can-place-flowers](https://github.com/Gargayshukla/Gargay-109/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gargayshukla/Gargay-109/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Gargayshukla/Gargay-109/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Gargayshukla/Gargay-109/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
