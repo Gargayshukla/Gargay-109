@@ -12,6 +12,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
 | [0605-can-place-flowers](https://github.com/Gargayshukla/Gargay-109/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Gargayshukla/Gargay-109/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gargayshukla/Gargay-109/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Gargayshukla/Gargay-109/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Gargayshukla/Gargay-109/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
 | ------- |
