@@ -4,14 +4,14 @@ public:
         
         int n = nums.size();
 
-        double ans = 0;
-        double window = 0;
+        double ans = 0; // storing ans
+        double window = 0; // for first window
          
          for(int i=0; i<k; i++)
          {
-            window = window + nums[i];
+            window = window + nums[i];  //ans for first window
          }
-         ans = window/k;
+         ans = window/k;  // avg of first window
 
          for(int right = k; right<n; right++)
          {
