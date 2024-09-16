@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gargayshukla/Gargay-109/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Gargayshukla/Gargay-109/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0219-contains-duplicate-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -77,6 +78,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gargayshukla/Gargay-109/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Gargayshukla/Gargay-109/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/Gargayshukla/Gargay-109/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Gargayshukla/Gargay-109/tree/master/0076-minimum-window-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/Gargayshukla/Gargay-109/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gargayshukla/Gargay-109/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gargayshukla/Gargay-109/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Gargayshukla/Gargay-109/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Gargayshukla/Gargay-109/tree/master/0643-maximum-average-subarray-i) |
