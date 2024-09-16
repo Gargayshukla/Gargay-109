@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
+| [0539-minimum-time-difference](https://github.com/Gargayshukla/Gargay-109/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Gargayshukla/Gargay-109/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Gargayshukla/Gargay-109/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gargayshukla/Gargay-109/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Gargayshukla/Gargay-109/tree/master/0007-reverse-integer) |
+| [0539-minimum-time-difference](https://github.com/Gargayshukla/Gargay-109/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gargayshukla/Gargay-109/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Hash Table
 |  |
@@ -60,6 +62,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Gargayshukla/Gargay-109/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Gargayshukla/Gargay-109/tree/master/0088-merge-sorted-array) |
+| [0539-minimum-time-difference](https://github.com/Gargayshukla/Gargay-109/tree/master/0539-minimum-time-difference) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
@@ -73,6 +76,7 @@
 | [0006-zigzag-conversion](https://github.com/Gargayshukla/Gargay-109/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/Gargayshukla/Gargay-109/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0345-reverse-vowels-of-a-string) |
+| [0539-minimum-time-difference](https://github.com/Gargayshukla/Gargay-109/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gargayshukla/Gargay-109/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gargayshukla/Gargay-109/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Gargayshukla/Gargay-109/tree/master/1894-merge-strings-alternately) |
