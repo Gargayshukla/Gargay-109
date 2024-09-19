@@ -19,6 +19,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gargayshukla/Gargay-109/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Gargayshukla/Gargay-109/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Gargayshukla/Gargay-109/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
+| [1833-find-the-highest-altitude](https://github.com/Gargayshukla/Gargay-109/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
