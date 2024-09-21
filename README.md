@@ -82,6 +82,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gargayshukla/Gargay-109/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Gargayshukla/Gargay-109/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Gargayshukla/Gargay-109/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Gargayshukla/Gargay-109/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Gargayshukla/Gargay-109/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0179-largest-number) |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gargayshukla/Gargay-109/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gargayshukla/Gargay-109/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
