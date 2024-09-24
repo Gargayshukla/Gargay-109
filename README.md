@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Gargayshukla/Gargay-109/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/Gargayshukla/Gargay-109/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Gargayshukla/Gargay-109/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Gargayshukla/Gargay-109/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Gargayshukla/Gargay-109/tree/master/0643-maximum-average-subarray-i) |
