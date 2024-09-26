@@ -60,6 +60,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Gargayshukla/Gargay-109/tree/master/0374-guess-number-higher-or-lower) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
 |  |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gargayshukla/Gargay-109/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Gargayshukla/Gargay-109/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
