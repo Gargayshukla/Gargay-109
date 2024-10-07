@@ -33,6 +33,7 @@
 | [1657-find-the-winner-of-an-array-game](https://github.com/Gargayshukla/Gargay-109/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gargayshukla/Gargay-109/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gargayshukla/Gargay-109/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gargayshukla/Gargay-109/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Gargayshukla/Gargay-109/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gargayshukla/Gargay-109/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gargayshukla/Gargay-109/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3379-score-of-a-string](https://github.com/Gargayshukla/Gargay-109/tree/master/3379-score-of-a-string) |
 ## Tree
 |  |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Gargayshukla/Gargay-109/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Gargayshukla/Gargay-109/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
