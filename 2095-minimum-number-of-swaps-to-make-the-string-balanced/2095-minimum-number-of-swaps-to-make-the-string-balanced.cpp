@@ -3,32 +3,27 @@ public:
     int minSwaps(string s) {
         
         int n = s.size();
-        stack<char> st;
-
         int count = 0;
+        int ans = 0;
 
-        for(int i=0; i<n; i++)
+        for(char ch : s)
         {
-            char ch = s[i];
-
             if(ch == '[')
             {
-                st.push(ch);
+                count++;
             }
             else
             {
-                if(!st.empty())
-                {
-                    st.pop();
-                }
-                else
-                {
-                    count++;
-                }
+                count--;
+            }
+            
+            if(count < 0)
+            {
+                ans++;
+                count = 1;
             }
         }
 
-        int ans = (count + 1)/2;
         return ans;
     }
 };
