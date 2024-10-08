@@ -2,7 +2,6 @@ class Solution {
 public:
     int minSwaps(string s) {
         
-        int n = s.size();
         int count = 0;
         int ans = 0;
 
