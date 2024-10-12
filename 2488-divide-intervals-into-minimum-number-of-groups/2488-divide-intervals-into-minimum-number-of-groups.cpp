@@ -4,29 +4,22 @@ public:
         
         int n = intervals.size();
 
-        int maxi = 0, len = 0;
-
-        for(int i=0; i<n; i++)
-        {
-            len = max(len,intervals[i][1]);
-        }
-
-        vector<int> res(len+2,0);
+        int res[1000005] = {0};
+        int len = INT_MIN;
 
         for(int i=0; i<n; i++)
         {
             res[intervals[i][0]]++;
             res[intervals[i][1]+1]--;
-        
-        }
-        for(int i=1; i<res.size(); i++)
-        {
-            res[i] += res[i-1];
+            len = max(len,intervals[i][1]);
         }
 
-        for(int i=0; i<res.size(); i++)
+    int maxi = 0, ans = 0;
+    
+        for(int i=1; i<=len; i++)
         {
-            maxi = max(maxi, res[i]);
+            ans += res[i];
+            maxi = max(maxi,ans);
         }
 
         return maxi;
