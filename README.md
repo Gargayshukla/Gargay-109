@@ -30,6 +30,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gargayshukla/Gargay-109/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gargayshukla/Gargay-109/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gargayshukla/Gargay-109/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -211,4 +213,5 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gargayshukla/Gargay-109/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
