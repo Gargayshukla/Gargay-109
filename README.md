@@ -30,6 +30,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Gargayshukla/Gargay-109/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gargayshukla/Gargay-109/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Simulation
@@ -142,21 +143,25 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sliding Window
 |  |
