@@ -34,6 +34,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gargayshukla/Gargay-109/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -251,4 +252,9 @@
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
