@@ -32,6 +32,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/Gargayshukla/Gargay-109/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gargayshukla/Gargay-109/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -110,6 +111,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1256-rank-transform-of-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/Gargayshukla/Gargay-109/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Gargayshukla/Gargay-109/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/2586-longest-square-streak-in-an-array) |
 ## Prefix Sum
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/Gargayshukla/Gargay-109/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
