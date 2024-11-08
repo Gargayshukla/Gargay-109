@@ -29,6 +29,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Gargayshukla/Gargay-109/tree/master/1833-find-the-highest-altitude) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Gargayshukla/Gargay-109/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1940-maximum-xor-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/1940-maximum-xor-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sorting
 |  |
@@ -123,6 +125,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0209-minimum-size-subarray-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Gargayshukla/Gargay-109/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/Gargayshukla/Gargay-109/tree/master/1833-find-the-highest-altitude) |
+| [1940-maximum-xor-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
