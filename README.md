@@ -21,6 +21,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Gargayshukla/Gargay-109/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gargayshukla/Gargay-109/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/Gargayshukla/Gargay-109/tree/master/1002-maximum-width-ramp) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Gargayshukla/Gargay-109/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gargayshukla/Gargay-109/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -78,6 +79,7 @@
 | [0567-permutation-in-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gargayshukla/Gargay-109/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gargayshukla/Gargay-109/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Gargayshukla/Gargay-109/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Gargayshukla/Gargay-109/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -308,6 +310,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Number Theory
