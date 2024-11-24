@@ -36,6 +36,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Gargayshukla/Gargay-109/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2089-maximum-matrix-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gargayshukla/Gargay-109/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -239,6 +240,7 @@
 | [1304-longest-happy-string](https://github.com/Gargayshukla/Gargay-109/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Gargayshukla/Gargay-109/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2089-maximum-matrix-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gargayshukla/Gargay-109/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -314,6 +316,7 @@
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Gargayshukla/Gargay-109/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Number Theory
