@@ -227,6 +227,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -234,6 +235,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -241,6 +243,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gargayshukla/Gargay-109/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -249,6 +252,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sliding Window
