@@ -15,6 +15,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Gargayshukla/Gargay-109/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/Gargayshukla/Gargay-109/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Gargayshukla/Gargay-109/tree/master/0539-minimum-time-difference) |
 | [0605-can-place-flowers](https://github.com/Gargayshukla/Gargay-109/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gargayshukla/Gargay-109/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -381,10 +382,12 @@
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Gargayshukla/Gargay-109/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0494-target-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Gargayshukla/Gargay-109/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/Gargayshukla/Gargay-109/tree/master/2554-minimum-total-distance-traveled) |
