@@ -49,6 +49,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Gargayshukla/Gargay-109/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2358-number-of-ways-to-split-array](https://github.com/Gargayshukla/Gargay-109/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gargayshukla/Gargay-109/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -197,6 +198,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Gargayshukla/Gargay-109/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/Gargayshukla/Gargay-109/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Gargayshukla/Gargay-109/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Gargayshukla/Gargay-109/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/3427-special-array-ii) |
