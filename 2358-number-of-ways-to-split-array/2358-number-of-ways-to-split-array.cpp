@@ -4,7 +4,7 @@ public:
 
       int ans = 0;
 
-      long int s = 0, e = 0;
+      long long int s = 0, e = 0;
 
       int n = nums.size()  ;
 
