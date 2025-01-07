@@ -28,6 +28,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Gargayshukla/Gargay-109/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Gargayshukla/Gargay-109/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Gargayshukla/Gargay-109/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Gargayshukla/Gargay-109/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -224,6 +225,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gargayshukla/Gargay-109/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gargayshukla/Gargay-109/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/Gargayshukla/Gargay-109/tree/master/1304-longest-happy-string) |
+| [1524-string-matching-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Gargayshukla/Gargay-109/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Gargayshukla/Gargay-109/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gargayshukla/Gargay-109/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -342,6 +344,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gargayshukla/Gargay-109/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
