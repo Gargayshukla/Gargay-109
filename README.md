@@ -72,6 +72,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Gargayshukla/Gargay-109/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Gargayshukla/Gargay-109/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -245,6 +246,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Gargayshukla/Gargay-109/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Gargayshukla/Gargay-109/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/Gargayshukla/Gargay-109/tree/master/3379-score-of-a-string) |
 ## Tree
 |  |
@@ -339,20 +341,24 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gargayshukla/Gargay-109/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gargayshukla/Gargay-109/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gargayshukla/Gargay-109/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gargayshukla/Gargay-109/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Interactive
 |  |
 | ------- |
