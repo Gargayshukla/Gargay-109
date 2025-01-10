@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Gargayshukla/Gargay-109/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Gargayshukla/Gargay-109/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gargayshukla/Gargay-109/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/Gargayshukla/Gargay-109/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Gargayshukla/Gargay-109/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Gargayshukla/Gargay-109/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Gargayshukla/Gargay-109/tree/master/1063-best-sightseeing-pair) |
@@ -110,6 +111,7 @@
 | [0567-permutation-in-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gargayshukla/Gargay-109/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gargayshukla/Gargay-109/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Gargayshukla/Gargay-109/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Gargayshukla/Gargay-109/tree/master/1694-make-sum-divisible-by-p) |
@@ -224,6 +226,7 @@
 | [0567-permutation-in-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gargayshukla/Gargay-109/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Gargayshukla/Gargay-109/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gargayshukla/Gargay-109/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gargayshukla/Gargay-109/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/Gargayshukla/Gargay-109/tree/master/1304-longest-happy-string) |
