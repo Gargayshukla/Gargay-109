@@ -126,6 +126,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Gargayshukla/Gargay-109/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/Gargayshukla/Gargay-109/tree/master/3379-score-of-a-string) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
 | ------- |
@@ -348,6 +350,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Gargayshukla/Gargay-109/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Gargayshukla/Gargay-109/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Gargayshukla/Gargay-109/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Rolling Hash
 |  |
 | ------- |
