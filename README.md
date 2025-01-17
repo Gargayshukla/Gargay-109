@@ -69,6 +69,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Gargayshukla/Gargay-109/tree/master/2716-prime-subtraction-operation) |
+| [2792-neighboring-bitwise-xor](https://github.com/Gargayshukla/Gargay-109/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Gargayshukla/Gargay-109/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Gargayshukla/Gargay-109/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -176,6 +177,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/1940-maximum-xor-for-each-query) |
 | [2509-minimize-xor](https://github.com/Gargayshukla/Gargay-109/tree/master/2509-minimize-xor) |
+| [2792-neighboring-bitwise-xor](https://github.com/Gargayshukla/Gargay-109/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Sorting
