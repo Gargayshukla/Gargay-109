@@ -14,6 +14,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Gargayshukla/Gargay-109/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Gargayshukla/Gargay-109/tree/master/0334-increasing-triplet-subsequence) |
+| [0407-trapping-rain-water-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gargayshukla/Gargay-109/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/Gargayshukla/Gargay-109/tree/master/0539-minimum-time-difference) |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Gargayshukla/Gargay-109/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gargayshukla/Gargay-109/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -410,6 +412,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gargayshukla/Gargay-109/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gargayshukla/Gargay-109/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Gargayshukla/Gargay-109/tree/master/1304-longest-happy-string) |
@@ -451,6 +454,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0407-trapping-rain-water-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/Gargayshukla/Gargay-109/tree/master/1972-rotating-the-box) |
