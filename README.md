@@ -42,6 +42,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Gargayshukla/Gargay-109/tree/master/1833-find-the-highest-altitude) |
+| [1876-map-of-highest-peak](https://github.com/Gargayshukla/Gargay-109/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Gargayshukla/Gargay-109/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Gargayshukla/Gargay-109/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Gargayshukla/Gargay-109/tree/master/1917-maximum-average-pass-ratio) |
@@ -296,6 +297,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Gargayshukla/Gargay-109/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Gargayshukla/Gargay-109/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gargayshukla/Gargay-109/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -461,6 +463,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/0407-trapping-rain-water-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Gargayshukla/Gargay-109/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Gargayshukla/Gargay-109/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/Gargayshukla/Gargay-109/tree/master/2145-grid-game) |
