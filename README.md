@@ -290,6 +290,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Gargayshukla/Gargay-109/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Gargayshukla/Gargay-109/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Gargayshukla/Gargay-109/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -501,6 +502,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Gargayshukla/Gargay-109/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Gargayshukla/Gargay-109/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gargayshukla/Gargay-109/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Gargayshukla/Gargay-109/tree/master/3189-find-champion-ii) |
@@ -537,4 +539,5 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Gargayshukla/Gargay-109/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Gargayshukla/Gargay-109/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
