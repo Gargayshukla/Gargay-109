@@ -45,6 +45,7 @@
 | [1755-defuse-the-bomb](https://github.com/Gargayshukla/Gargay-109/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Gargayshukla/Gargay-109/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Gargayshukla/Gargay-109/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/Gargayshukla/Gargay-109/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Gargayshukla/Gargay-109/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -494,6 +495,7 @@
 | ------- |
 | [0494-target-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Gargayshukla/Gargay-109/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Gargayshukla/Gargay-109/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
