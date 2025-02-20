@@ -57,6 +57,7 @@
 | [1972-rotating-the-box](https://github.com/Gargayshukla/Gargay-109/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Gargayshukla/Gargay-109/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2089-maximum-matrix-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/Gargayshukla/Gargay-109/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Gargayshukla/Gargay-109/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Gargayshukla/Gargay-109/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Gargayshukla/Gargay-109/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -145,6 +146,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Gargayshukla/Gargay-109/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Gargayshukla/Gargay-109/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Gargayshukla/Gargay-109/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Gargayshukla/Gargay-109/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/Gargayshukla/Gargay-109/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/2448-count-number-of-bad-pairs) |
@@ -284,6 +286,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Gargayshukla/Gargay-109/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Gargayshukla/Gargay-109/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Gargayshukla/Gargay-109/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/Gargayshukla/Gargay-109/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Gargayshukla/Gargay-109/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Gargayshukla/Gargay-109/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Gargayshukla/Gargay-109/tree/master/2300-construct-string-with-repeat-limit) |
@@ -499,6 +502,7 @@
 | [0494-target-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Gargayshukla/Gargay-109/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Gargayshukla/Gargay-109/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Gargayshukla/Gargay-109/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Gargayshukla/Gargay-109/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
