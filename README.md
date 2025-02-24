@@ -24,6 +24,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Gargayshukla/Gargay-109/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/Gargayshukla/Gargay-109/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Gargayshukla/Gargay-109/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Gargayshukla/Gargay-109/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Gargayshukla/Gargay-109/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Gargayshukla/Gargay-109/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Gargayshukla/Gargay-109/tree/master/1025-minimum-cost-for-tickets) |
@@ -138,6 +139,7 @@
 | [0567-permutation-in-string](https://github.com/Gargayshukla/Gargay-109/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Gargayshukla/Gargay-109/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Gargayshukla/Gargay-109/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Gargayshukla/Gargay-109/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Gargayshukla/Gargay-109/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Gargayshukla/Gargay-109/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1256-rank-transform-of-an-array) |
@@ -308,6 +310,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Gargayshukla/Gargay-109/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Gargayshukla/Gargay-109/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Gargayshukla/Gargay-109/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -361,6 +364,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Gargayshukla/Gargay-109/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Gargayshukla/Gargay-109/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Gargayshukla/Gargay-109/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Gargayshukla/Gargay-109/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Gargayshukla/Gargay-109/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -610,4 +614,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Gargayshukla/Gargay-109/tree/master/1477-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Gargayshukla/Gargay-109/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
