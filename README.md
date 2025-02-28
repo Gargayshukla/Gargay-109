@@ -278,6 +278,7 @@
 | [0952-word-subsets](https://github.com/Gargayshukla/Gargay-109/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Gargayshukla/Gargay-109/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Gargayshukla/Gargay-109/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1170-shortest-common-supersequence](https://github.com/Gargayshukla/Gargay-109/tree/master/1170-shortest-common-supersequence) |
 | [1304-longest-happy-string](https://github.com/Gargayshukla/Gargay-109/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Gargayshukla/Gargay-109/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1524-string-matching-in-an-array) |
@@ -523,6 +524,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Gargayshukla/Gargay-109/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Gargayshukla/Gargay-109/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Gargayshukla/Gargay-109/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/Gargayshukla/Gargay-109/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Gargayshukla/Gargay-109/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Gargayshukla/Gargay-109/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
