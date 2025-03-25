@@ -104,6 +104,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Gargayshukla/Gargay-109/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Gargayshukla/Gargay-109/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Gargayshukla/Gargay-109/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Simulation
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Gargayshukla/Gargay-109/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Gargayshukla/Gargay-109/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Gargayshukla/Gargay-109/tree/master/3291-find-if-array-can-be-sorted) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Gargayshukla/Gargay-109/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Prefix Sum
 |  |
 | ------- |
