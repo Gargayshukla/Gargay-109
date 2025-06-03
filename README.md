@@ -33,6 +33,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Gargayshukla/Gargay-109/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Gargayshukla/Gargay-109/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Gargayshukla/Gargay-109/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gargayshukla/Gargay-109/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Gargayshukla/Gargay-109/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Gargayshukla/Gargay-109/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -353,6 +354,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Gargayshukla/Gargay-109/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Gargayshukla/Gargay-109/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Gargayshukla/Gargay-109/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gargayshukla/Gargay-109/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Gargayshukla/Gargay-109/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Gargayshukla/Gargay-109/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -573,6 +575,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/Gargayshukla/Gargay-109/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Gargayshukla/Gargay-109/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Gargayshukla/Gargay-109/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Gargayshukla/Gargay-109/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Gargayshukla/Gargay-109/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Gargayshukla/Gargay-109/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
